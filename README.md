@@ -2,6 +2,8 @@
 RIP John Conway
 26/12/1937-11/04/2020
 
+![Capture image](https://github.com/rguitar96/game-of-life/blob/master/media/sequence.gif)
+
 Built with Python 3.8
 
 Dependencies:
